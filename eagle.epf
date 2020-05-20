@@ -1,0 +1,48 @@
+[Eagle]
+Version="09 05 01"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:325"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/104 cap smd 1206.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/106 cap smd 1206.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/1N4742ATR.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/1N4747ATR.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/33pf smd 1206.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/4N25.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/BC817-40-7-F.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/BTA16-600CW3G.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/BTA16-800SW3G.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/ECQ-E2106KFB.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/EL817C.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/KBP310G.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/MOC3021.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/RNX025100MFKEL.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/SRD-05VDC-SL-C.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/SSL-LX5093TC.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/TB003-500-P02BE.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/TB006-508-03BE.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/TB007-508-02BE.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/TTP223-BA6.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/TTP224B-BSBN.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/ULN2003ADR.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/led 1206.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/resistor 1206 smd.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/resistor smd.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/resistors.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/sot23 2n5551.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/home automation/zener diode.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/for iqbal sir/ABL-16.000MHz-B4Y.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/for iqbal sir/ATMEGA328P-PU.lbr"
+UsedLibrary="C:/Users/shourav/OneDrive/Projects and designs/Eaglecad/Libraries/for iqbal sir/TSOP1838.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1366 768"
+Window="Win_1"
